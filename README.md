@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Benj1x">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benj1x&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Benj1x&layout=compact&langs_count=7&theme=codeSTACKr](https://github-readme-stats.vercel.app/api/top-langs/?username=Benj1x&hide_progress=true)](https://github.com/Benj1x/github-readme-stats))"/>
+  <img height="180em" src="[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=Benj1x&layout=compact&langs_count=7&theme=codeSTACKr](https://github-readme-stats.vercel.app/api/top-langs/?username=Benj1x&hide_progress=true)](https://github.com/Benj1x/github-readme-stats))"/>
 </div>
 
 <!--
